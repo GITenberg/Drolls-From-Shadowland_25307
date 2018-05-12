@@ -1,0 +1,27 @@
+_repo: Drolls-From-Shadowland_25307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pearce, J. H. (Joseph Henry)
+    alias: Pearce, Joseph Henry
+    birthdate: 1856
+    gutenberg_agent_id: '31233'
+    url: http://www.gutenberg.org/2009/agents/31233
+description: ''
+gutenberg_issued: '2008-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Cornwall (England : County) -- Fiction'
+- !lcc 'PR'
+title: Drolls From Shadowland
+url: http://www.gutenberg.org/ebooks/25307
